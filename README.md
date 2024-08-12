@@ -17,3 +17,12 @@ This repository contains my all CPP Projects
    It offers to perform operations.
    Take input form user (name,mobileno,mail).
    Operations : Add Contact , Delete Contact , Display Contact.
+   Choose operation repeatedly until decide to exit
+
+3. Student Record Management :
+-> Objective : Develop a student record management.
+-> Features :
+   Store students rollno,name and five subjects marks.
+   Operations : add new record, delete speciic or all record, display specific or all record.
+   Find percentage and give grade.
+   Choose operation repeatedly until decide to exit.
