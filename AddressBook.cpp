@@ -57,7 +57,7 @@ int main() {
 
 void intro() {
     cout << "\n\n1. Enter new contact\n";
-    cout << "2. Display Specific\n";
+    cout << "2. Display Specific contact\n";
     cout << "3. Display all contacts\n";
     cout << "4. Delete specific contact\n";
     cout << "5. exit\n";
